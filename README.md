@@ -1,5 +1,3 @@
-# wizard-of-oz123
+# wizard-of-oz
 
 This is a demo of baisic semantic html.
-# wizard-of-oz
-# wizard-of-oz
