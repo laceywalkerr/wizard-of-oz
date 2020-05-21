@@ -45,6 +45,13 @@ h1 {
     background-color: #FAEBD7;
 }
 
+.flex-item {
+    background-color: hotpink;
+    flex: 1; 
+    margin: 1em;
+    
+}
+
 main{
     flex: 3;
     margin: 1em;
@@ -71,3 +78,4 @@ img {
     overflow: hidden;
     padding: 10px;
 }
+
